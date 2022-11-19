@@ -1,0 +1,1 @@
+{"subject": "acct:takahe@jointakahe.org", "aliases": ["https://jointakahe.takahe.social/@takahe/"], "links": [{"rel": "http://webfinger.net/rel/profile-page", "type": "text/html", "href": "https://jointakahe.takahe.social/@takahe/"}, {"rel": "self", "type": "application/activity+json", "href": "https://jointakahe.takahe.social/@takahe@jointakahe.org/"}]}
