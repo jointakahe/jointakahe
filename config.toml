@@ -32,7 +32,7 @@ pygmentsStyle = "pygments"
   header_background_color_secondary = "#27343e"
 
   # Text colors
-  section_headings_color = "#159957"
+  section_headings_color = "#005487"
   body_text_color = "#606c71"
   body_link_color = "#1e6bb8"
   blockquote_text_color = "#819198"
