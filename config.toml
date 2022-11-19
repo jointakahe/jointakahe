@@ -48,13 +48,17 @@ pygmentsStyle = "pygments"
 
 [menu]
   [[menu.nav]]
-    name = "GitHub"
-    url = "https://github.com/andrewgodwin/takahe"
-    weight = 1
-  [[menu.nav]]
     name = "About"
     url = "/about/"
+    weight = 1
+  [[menu.nav]]
+    name = "GitHub"
+    url = "https://github.com/andrewgodwin/takahe"
     weight = 3
+  [[menu.nav]]
+    name = "Docs"
+    url = "https://takahe-server.readthedocs.io/en/latest/"
+    weight = 2
   [[menu.nav]]
     name = "takahe.social"
     url = "https://takahe.social"
