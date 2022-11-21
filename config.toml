@@ -60,6 +60,10 @@ pygmentsStyle = "pygments"
     url = "https://takahe-server.readthedocs.io/en/latest/"
     weight = 2
   [[menu.nav]]
-    name = "takahe.social"
-    url = "https://takahe.social"
+    name = "Discord"
+    url = "https://discord.gg/qvQ39tAMvf"
     weight = 4
+  [[menu.nav]]
+    name = "@takahe"
+    url = "https://takahe.social/@takahe@jointakahe.org/"
+    weight = 5
