@@ -1,3 +1,3 @@
 # jointakahe
 
-The jointakahe.org website
+The [jointakahe.org](https://jointakahe.org) website. Built using Hugo.
