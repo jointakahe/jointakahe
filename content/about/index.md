@@ -34,12 +34,14 @@ Takahē is, so far, mostly authored by [Andrew Godwin](https://aeracode.org/),
 and you can read more about its development, choices made, and progress via
 [my blog posts](https://aeracode.org/category/takahe).
 
-## About The Takahē
 
-The Takahē, after which this project is named, is a
+## The Takahē
+
+The Takahē bird, after which this project is named, is a
 [flightless bird from Aotearoa New Zealand](https://en.wikipedia.org/wiki/Takah%C4%93) -
 once thought extinct, but in recent decades they were rediscovered and have
 been the subject of a successful breeding and reintroduction programme.
 
-If you'd like to donate to their cause, you can give money through
-the [New Zealand Nature Fund](https://nznaturefund.org/projects/takahe-recovery-programme/).
+If you'd like to donate to the ongoing efforts to bring them back to a healthy
+population, you can give money through the
+[New Zealand Nature Fund](https://nznaturefund.org/projects/takahe-recovery-programme/).
