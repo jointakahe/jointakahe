@@ -42,6 +42,7 @@ The Takahē bird, after which this project is named, is a
 once thought extinct, but in recent decades they were rediscovered and have
 been the subject of a successful breeding and reintroduction programme.
 
-If you'd like to donate to the ongoing efforts to bring them back to a healthy
-population, you can give money through the
+If you'd like to donate to the ongoing efforts to establish a healthy
+population and expansion into new areas, you can give money through the
 [New Zealand Nature Fund](https://nznaturefund.org/projects/takahe-recovery-programme/).
+The Takahē project maintains a regular monthly donation to the programme.
