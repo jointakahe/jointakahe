@@ -57,7 +57,7 @@ pygmentsStyle = "pygments"
     weight = 3
   [[menu.nav]]
     name = "Docs"
-    url = "https://takahe-server.readthedocs.io/en/latest/"
+    url = "https://docs.jointakahe.org/en/latest/"
     weight = 2
   [[menu.nav]]
     name = "Discord"
