@@ -1,8 +1,12 @@
+---
+title: Privacy Policy
+---
+
 *Last updated December 16, 2022*
 
 This privacy notice for Scaled Industries, Ltd. ("Company," "we," "us," or "our"), describes how and why we might collect, store, use, and/or share ("process") your information when you use our services ("Services"), such as when you:
 
-* Visit our website at https://takahe.social, or any website of ours that links to this privacy notice
+* Visit our websites at https://takahe.social, https://jointakahe.org, or any website of ours that links to this privacy notice
 * Engage with us in other related ways, including any sales, marketing, or events
 
 Questions or concerns? Reading this privacy notice will help you understand your privacy rights and choices. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at legal@scaledindustries.com.
@@ -163,10 +167,10 @@ We may update this privacy notice from time to time. The updated version will be
 
 If you have questions or comments about this notice, you may email us at legal@scaledindustries.com or by post to:
 
-Scaled Industries, Ltd.
-4890 Ironton St Unit 6D
-Denver, CO 80239
-United States
+    Scaled Industries, Ltd.
+    4890 Ironton St Unit 6D
+    Denver, CO 80239
+    United States
 
 # 14. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
 

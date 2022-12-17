@@ -34,7 +34,34 @@ All users of takahe.social must abide by the project's
 [Code of Conduct](/conduct/). Please use the "report" feature to send
 any posts that do not agree with the Code of Conduct into the moderation queue.
 
-The server also has additional [Terms of Service](https://takahe.social/pages/terms/)
+The server also has additional [Terms of Service](/terms/)
 that you must agree to to create and continue using an account. Among other
 things, copyrighted content not covered under Fair Use and illegal content
 is strictly forbidden.
+
+
+## What Doesn't Work Yet
+
+The current features are not yet implemented:
+
+* Uploading video or animated GIFs
+* Manual follower approval rather than automatic
+* Seeing, creating, and responding to polls
+* Moving accounts to/from other servers
+* Account deletion (we will honour GDPR/etc. requests via manual deletion)
+* Filters
+* Image focal point selection
+
+
+## Custom Domains
+
+While custom domains are a feature of Takahē, we will be limiting
+them, at least initially, on takahe.social. If you'd like to set up a custom
+domain, please email contact@jointakahe.org.
+
+
+## Client Apps
+
+While Takahē now has initial support for client applications that support the
+Mastodon API, we don't have the ability to test on every application and so
+we particularly value feedback about what apps work and which ones do not.
