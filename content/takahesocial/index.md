@@ -2,7 +2,7 @@
 title: takahe.social
 ---
 
-takahe.social is our "flagship" server - a Takahē server run by the main
+[takahe.social](https://takahe.social) is our "flagship" server - a Takahē server run by the main
 developers as a testbed and proving ground for server changes, and a place to
 get user feedback.
 
