@@ -1,0 +1,35 @@
+<!doctype html><html lang=en><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><meta http-equiv=x-ua-compatible content="IE=edge"><meta name=generator content="Hugo 0.108.0"><meta name=description content="So you want to point a custom domain at takahe.social? Great! Before you start, you need to understand a few things:
+Custom domains are limited and available by request only. Email contact@jointakahe.org to request one; we may or may not have capacity. Each custom domain is administrative and operational overhead for us.
+Once you make accounts (identities) on your custom domain, you will not be able to move them away from takahe."><link rel=stylesheet href=https://jointakahe.org/css/normalize.css><link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel=stylesheet type=text/css><link rel=stylesheet href=https://jointakahe.org/css/cayman.f197fbcc617c3f604a7e7817a58931d53690eb11f3d646e44e5632aa9cfabea7.css><link rel=apple-touch-icon sizes=1024x1024 href=/icon-1024.png><link rel=icon type=image/png sizes=32x32 href=/icon-32.png><link rel=stylesheet href=https://cdn.jsdelivr.net/npm/katex@0.10.2/dist/katex.min.css integrity=sha384-yFRtMMDnQtDRO8rLpMIKrtPCD5jdktao2TV19YiZYWMDkUR5GQZR/NOVTdquEx1j crossorigin=anonymous><script defer src=https://cdn.jsdelivr.net/npm/katex@0.10.2/dist/katex.min.js integrity=sha384-9Nhn55MVVN0/4OFx7EE5kpFBPsEMZxKTCnA+4fqDmg12eCTqGi6+BB2LjY8brQxJ crossorigin=anonymous></script>
+<script defer src=https://cdn.jsdelivr.net/npm/katex@0.10.2/dist/contrib/auto-render.min.js integrity=sha384-kWPLUVMOks5AQFrykwIup5lo0m3iMkkHrD0uJ4H5cjeGihAutqP0yW0J6dpFiVkI crossorigin=anonymous onload=renderMathInElement(document.body)></script><title>Custom Domains Guide | Takahē</title></head><body><section class=page-header><h1 class=project-name><img src=/logo-1024.png alt="Takahe logo" class=logo></h1><h2 class=project-tagline>An efficient ActivityPub Server, for small installs with multiple domains</h2><nav><a href=/about/ class=btn>About</a>
+<a href=https://docs.jointakahe.org/en/latest/ class=btn>Docs</a>
+<a href=https://github.com/jointakahe/takahe class=btn>GitHub</a>
+<a href=https://discord.gg/qvQ39tAMvf class=btn>Discord</a>
+<a href=https://takahe.social/@takahe@jointakahe.org/ class=btn>@takahe</a></nav></section><section class=main-content><h1>Custom Domains Guide</h1><p>So you want to point a custom domain at takahe.social? Great! Before you start,
+you need to understand a few things:</p><ul><li><p>Custom domains are limited and available by request only. Email
+<a href=mailto:contact@jointakahe.org>contact@jointakahe.org</a> to request one; we may or may not have capacity.
+Each custom domain is administrative and operational overhead for us.</p></li><li><p>Once you make accounts (identities) on your custom domain, you will not be
+able to move them away from takahe.social until we implement the move
+feature in the future. Even then, your posts will not follow you, only
+your followers.</p></li><li><p>Custom domains are not separate servers - you will still be on the same
+&ldquo;server&rdquo; as everyone else, see everyone else in the Local feeds, use our
+global set of server emoji, and be subject to our moderation policies and
+rules.</p></li></ul><p>If you&rsquo;re alright with that, then let&rsquo;s discuss how to set up your domain.</p><p>There&rsquo;s two ways you can route a domain to us:</p><ul><li><p>Pointing the whole domain at takahe.social. This is the easiest way, but
+it means you will not be able to use that domain for anything else
+(for example, if you want <code>@user@sub.domain.tld</code> to be your handle, you must
+point the entirely of <code>sub.domain.tld</code> at us and nothing else can exist on it).</p></li><li><p>Routing users from a main domain to a Takahē-specific subdomain.
+This is generally preferred, as it lets you have <code>@user@domain.tld</code> work, while
+still serving a different website on <code>domain.tld</code>. Takahē will serve requests
+from a subdomain like <code>takahe.domain.tld</code>.</p></li></ul><p>Please understand that once you have selected one of these options it
+<strong>cannot be changed</strong> without you losing all your follows. Unless you are very
+sure what you are doing, <strong>we suggest using a Takahē-specific subdomain</strong>.</p><p>You will be able to log into Takahē using the same credentials either at
+<a href=https://takahe.social>takahe.social</a> or under your custom domain; it will
+work the same either way.</p><h2 id=whole-domain>Whole Domain</h2><p>To point a whole domain at us, you need to add a DNS CNAME from that domain
+to <code>takahe.social</code>.</p><p>If you are trying to point an apex domain that does not
+support CNAMEs, you can make an A record that points to our IP address
+of <code>104.198.180.195</code>. This IP may change as we get our network setup fully
+stabilised; we will try and let you know via email when this is going to
+happen.</p><p>Note that no subdomains of the domain you provide will work, not even <code>www</code>,
+as we will only issue an SSL certificate for the exact one you provide.</p><h2 id=takahē-specific-subdomain>Takahē-Specific Subdomain</h2><p>To point a subdomain at us, you will need to add a DNS CNAME for it to
+<code>takahe.social</code>.</p><p>If you then want account handles to work off of your main domain, you will
+need to proxy through these URLs from that main domain to the subdomain:</p><ul><li><code>/.well-known/webfinger</code></li><li><code>/.well-known/host-meta</code></li><li><code>/.well-known/nodeinfo</code></li></ul><footer class=site-footer><span class=site-footer-credits>Theme based on <a href=https://github.com/zwbetz-gh/cayman-hugo-theme>Cayman</a></span></footer></section></body></html>
