@@ -1,8 +1,4 @@
-# PRIVACY NOTICE
-
-Last updated December 16, 2022
-
-
+*Last updated December 16, 2022*
 
 This privacy notice for Scaled Industries, Ltd. ("Company," "we," "us," or "our"), describes how and why we might collect, store, use, and/or share ("process") your information when you use our services ("Services"), such as when you:
 
