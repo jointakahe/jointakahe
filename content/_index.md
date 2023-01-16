@@ -16,6 +16,9 @@ browse the code [on our GitHub repository](https://github.com/jointakahe/takahe)
 come and chat to us [on Discord](https://discord.gg/qvQ39tAMvf),
 or read some of [Andrew's blogs about building it](https://aeracode.org/category/takahe/).
 
+If you would like to support the project, you can [sponsor us on Patreon](https://patreon.com/takahe),
+or see [how you can volunteer](https://docs.jointakahe.org/en/latest/contributing/).
+
 ## What makes Takahē different?
 
 While it's always nice to have more Fediverse software, we have some specific
