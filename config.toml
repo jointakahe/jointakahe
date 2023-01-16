@@ -48,17 +48,17 @@ pygmentsStyle = "pygments"
 
 [menu]
   [[menu.nav]]
-    name = "About"
-    url = "/about/"
-    weight = 1
-  [[menu.nav]]
     name = "GitHub"
     url = "https://github.com/jointakahe/takahe"
-    weight = 3
+    weight = 2
   [[menu.nav]]
     name = "Docs"
     url = "https://docs.jointakahe.org/en/latest/"
-    weight = 2
+    weight = 1
+  [[menu.nav]]
+    name = "Patreon"
+    url = "https://patreon.com/takahe"
+    weight = 4
   [[menu.nav]]
     name = "Discord"
     url = "https://discord.gg/qvQ39tAMvf"
