@@ -6,8 +6,8 @@ Takahē is an ActivityPub server designed for efficient use on *small- to*
 *medium-size* installations, and which allows you to host *multiple domains* on
 the same infrastructure.
 
-It's currently in an beta state, meaning most things work (and it will talk
-ActivityPub to Mastodon and other servers), but there's still some
+It's currently in an beta state, meaning most things work and it can talk to
+most of the Fediverse, but there's still some
 [polish and features left to add](https://docs.jointakahe.org/en/latest/features/).
 
 The flagship instance can be found at [takahe.social](http://takahe.social),
@@ -17,12 +17,12 @@ come and chat to us [on Discord](https://discord.gg/qvQ39tAMvf),
 or read some of [Andrew's blogs about building it](https://aeracode.org/category/takahe/).
 
 If you would like to support the project, you can [sponsor us on Patreon](https://patreon.com/takahe),
-or see [how you can volunteer](https://docs.jointakahe.org/en/latest/contributing/).
+or you can see [how you can volunteer](https://docs.jointakahe.org/en/latest/contributing/).
 
 ## What makes Takahē different?
 
 While it's always nice to have more Fediverse software, we have some specific
-feature goals that we think makes Takahē a great choice of server software:
+features and goals that we think makes Takahē a great choice of server software:
 
 * **Multiple domain support**, allowing you to host as many domains as you like
   on a single running instance.
@@ -43,7 +43,7 @@ for clients and other servers.
 
 ## The Takahē
 
-The Takahē bird, after which this project is named, is a
+The takahē bird, after which this project is named, is a
 [flightless bird from Aotearoa New Zealand](https://en.wikipedia.org/wiki/Takah%C4%93) -
 once thought extinct, but in recent decades they were rediscovered and have
 been the subject of a successful breeding and reintroduction programme.
