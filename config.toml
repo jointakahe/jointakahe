@@ -66,4 +66,8 @@ pygmentsStyle = "pygments"
   [[menu.nav]]
     name = "@takahe"
     url = "https://takahe.social/@takahe@jointakahe.org/"
+    weight = 6
+  [[menu.nav]]
+    name = "Supporters"
+    url = "/supporters/"
     weight = 5
