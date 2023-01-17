@@ -7,4 +7,5 @@ via our [Patreon](https://patreon.com/takahe)!
 
 ## Supporters
 
+* Mark McKeague
 * Tyler Kennedy (tktech)
