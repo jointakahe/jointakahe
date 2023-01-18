@@ -8,4 +8,5 @@ via our [Patreon](https://patreon.com/takahe)!
 ## Supporters
 
 * Mark McKeague
+* The Doodle Project
 * Tyler Kennedy (tktech)
