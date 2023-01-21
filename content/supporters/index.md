@@ -9,5 +9,6 @@ via our [Patreon](https://patreon.com/takahe)!
 
 * Mark McKeague
 * Naldela Isur'Ra Teleyal
+* Shuuji Takahashi
 * The Doodle Project
 * Tyler Kennedy (tktech)
