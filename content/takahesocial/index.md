@@ -13,10 +13,9 @@ sharp edges and things that aren't quite fully done yet.
 
 ## Joining
 
-The server is currently invite-only. If you want an invite, please email
-invite@jointakahe.org stating why you'd like an invite, and confirming that
-you are happy to be an early tester! We'll send out invite codes in small
-batches.
+The server is open for signups up to an internal user cap. We increase the cap
+every so often; if signups are currently closed, you can follow
+[@admin](https://takahe.social/@admin/) to see when they open again.
 
 If you are extended an invite, we heavily encourage you to join our
 [Discord server](https://discord.gg/qvQ39tAMvf) and provide feedback on your
@@ -55,9 +54,14 @@ The current features are not yet implemented:
 
 ## Custom Domains
 
-While custom domains are a feature of Takahē, we will be limiting
-them, at least initially, on takahe.social. If you'd like to set up a custom
-domain, please email contact@jointakahe.org.
+We'll host a custom domain on takahe.social for you if you join our
+[Featured Supporter Patreon Tier](https://www.patreon.com/takahe) or higher,
+or if you contribute an equivalent amount each month via direct invoicing
+(email contact@jointakahe.org if you want to discuss that option).
+
+Custom domains come with some limits; read our
+[custom domains guide](https://jointakahe.org/guides/custom-domains/)
+for more information.
 
 
 ## Client Apps

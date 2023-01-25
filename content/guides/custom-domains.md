@@ -5,9 +5,9 @@ title: Custom Domains Guide
 So you want to point a custom domain at takahe.social? Great! Before you start,
 you need to understand a few things:
 
-* Custom domains are limited and available by request only. Email
-  contact@jointakahe.org to request one; we may or may not have capacity.
-  Each custom domain is administrative and operational overhead for us.
+* Custom domains are limited to only our [Featured Supporter Patreon Tier](https://www.patreon.com/takahe)
+  or higher, or those who donate an equivalent monthly amount via direct
+  invoice (email contact@jointakahe.org for information about that option).
 
 * Once you make accounts (identities) on your custom domain, you will not be
   able to move them away from takahe.social until we implement the move
@@ -17,7 +17,8 @@ you need to understand a few things:
 * Custom domains are not separate servers - you will still be on the same
   "server" as everyone else, see everyone else in the Local feeds, use our
   global set of server emoji, and be subject to our moderation policies and
-  rules.
+  rules. This will change a little in future as we implement more domain
+  separation and give you the option to be slightly more isolated.
 
 If you're alright with that, then let's discuss how to set up your domain.
 
