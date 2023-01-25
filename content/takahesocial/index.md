@@ -17,7 +17,7 @@ The server is open for signups up to an internal user cap. We increase the cap
 every so often; if signups are currently closed, you can follow
 [@admin](https://takahe.social/@admin/) to see when they open again.
 
-If you are extended an invite, we heavily encourage you to join our
+If you sign up, we encourage you to join our
 [Discord server](https://discord.gg/qvQ39tAMvf) and provide feedback on your
 experience, even if it's all good!
 
