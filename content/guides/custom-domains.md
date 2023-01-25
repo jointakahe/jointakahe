@@ -6,8 +6,9 @@ So you want to point a custom domain at takahe.social? Great! Before you start,
 you need to understand a few things:
 
 * Custom domains are limited to only our [Featured Supporter Patreon Tier](https://www.patreon.com/takahe)
-  or higher, or those who donate an equivalent monthly amount via direct
-  invoice (email contact@jointakahe.org for information about that option).
+  or higher, those who donate an equivalent monthly amount via direct
+  invoice, or for open-source project or charities
+  (email contact@jointakahe.org for information about those options).
 
 * Once you make accounts (identities) on your custom domain, you will not be
   able to move them away from takahe.social until we implement the move

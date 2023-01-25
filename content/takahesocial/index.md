@@ -56,8 +56,9 @@ The current features are not yet implemented:
 
 We'll host a custom domain on takahe.social for you if you join our
 [Featured Supporter Patreon Tier](https://www.patreon.com/takahe) or higher,
-or if you contribute an equivalent amount each month via direct invoicing
-(email contact@jointakahe.org if you want to discuss that option).
+if you contribute an equivalent amount each month via direct invoicing,
+or if you are an open-source project or charity
+(email contact@jointakahe.org if you want to discuss these options).
 
 Custom domains come with some limits; read our
 [custom domains guide](https://jointakahe.org/guides/custom-domains/)
