@@ -5,6 +5,11 @@ title: Supporters
 These supporters have generously donated to Takahē, either directly or
 via our [Patreon](https://patreon.com/takahe)!
 
+## Featured Supporters
+
+* Jamie Matthews
+
+
 ## Supporters
 
 * Mark McKeague
