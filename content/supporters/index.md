@@ -12,6 +12,7 @@ via our [Patreon](https://patreon.com/takahe)!
 
 ## Supporters
 
+* Josh Simmons
 * Mark McKeague
 * Naldela Isur'Ra Teleyal
 * Shuuji Takahashi
