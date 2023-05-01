@@ -12,6 +12,7 @@ via our [Patreon](https://patreon.com/takahe)!
 
 ## Supporters
 
+* Brian Grohe
 * Josh Simmons
 * Mark McKeague
 * Naldela Isur'Ra Teleyal
