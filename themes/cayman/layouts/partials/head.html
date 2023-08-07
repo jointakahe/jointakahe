@@ -14,6 +14,10 @@
   <link rel="stylesheet" href="{{ $caymanCss.Permalink }}">
   <link rel="apple-touch-icon" sizes="1024x1024" href="/icon-1024.png">
   <link rel="icon" type="image/png" sizes="32x32" href="/icon-32.png">
+  <meta property="og:title" content="{{ .Title }} | {{ $.Site.Title }}" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://jointakahe.org/" />
+  <meta property="og:image" content="https://jointakahe.org/icon-1024.png" />
   {{ partial "katex.html" . }}
   <title>{{ .Title }} | {{ $.Site.Title }}</title>
 </head>
